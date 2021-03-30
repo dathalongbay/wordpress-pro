@@ -33,3 +33,9 @@ get_the_post_thumbnail( int|WP_Post $post = null, string|int[] $size = 'post-thu
 get_post_meta( int $post_id, string $key = '', bool $single = false )
 Retrieves a post meta field for the given post ID.
 ```
+
+```
+https://developer.wordpress.org/reference/functions/get_option/
+get_option( string $option, mixed $default = false )
+Retrieves an option value based on an option name.
+```
