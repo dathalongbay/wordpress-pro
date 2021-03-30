@@ -56,4 +56,7 @@ hình ảnh CSDL wp
 https://codex.wordpress.org
 ```
 
+### https://websitesetup.org/wordpress-cheat-sheet/
+
+
 
