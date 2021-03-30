@@ -57,6 +57,7 @@ https://codex.wordpress.org
 ```
 
 ### https://websitesetup.org/wordpress-cheat-sheet/
+### https://cdn.tutsplus.com/wp/uploads/legacy/090_WPCheatSheets/WP_CheatSheet_TemplateMap.pdf
 
 
 
