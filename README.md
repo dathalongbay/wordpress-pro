@@ -16,3 +16,11 @@ add_image_size wordpress
 			esc_html__( 'Primary Menu', 'colormag' )
 		);
 ```
+
+```
+// Cropping the images to different sizes to be used in the theme.
+		add_image_size( 'colormag-highlighted-post', 392, 272, true );
+		add_image_size( 'colormag-featured-post-medium', 390, 205, true );
+		add_image_size( 'colormag-featured-post-small', 130, 90, true );
+		add_image_size( 'colormag-featured-image', 800, 445, true );
+```
