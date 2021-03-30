@@ -28,3 +28,8 @@ add_image_size wordpress
 ```
 get_the_post_thumbnail( int|WP_Post $post = null, string|int[] $size = 'post-thumbnail', string|array $attr = '' )
 ```
+
+```
+get_post_meta( int $post_id, string $key = '', bool $single = false )
+Retrieves a post meta field for the given post ID.
+```
