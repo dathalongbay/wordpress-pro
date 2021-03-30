@@ -35,6 +35,14 @@ Retrieves a post meta field for the given post ID.
 ```
 
 ```
+get_theme_mod( string $name, string|false $default = false )
+Retrieves theme modification value for the current theme.
+```
+
+
+
+
+```
 https://developer.wordpress.org/reference/functions/get_option/
 get_option( string $option, mixed $default = false )
 Retrieves an option value based on an option name.
