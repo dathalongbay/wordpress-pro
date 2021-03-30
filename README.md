@@ -24,3 +24,7 @@ add_image_size wordpress
 		add_image_size( 'colormag-featured-post-small', 130, 90, true );
 		add_image_size( 'colormag-featured-image', 800, 445, true );
 ```
+
+```
+get_the_post_thumbnail( int|WP_Post $post = null, string|int[] $size = 'post-thumbnail', string|array $attr = '' )
+```
