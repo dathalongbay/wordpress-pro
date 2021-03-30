@@ -47,3 +47,8 @@ https://developer.wordpress.org/reference/functions/get_option/
 get_option( string $option, mixed $default = false )
 Retrieves an option value based on an option name.
 ```
+
+```
+https://codex.wordpress.org/images/2/25/WP4.4.2-ERD.png
+hình ảnh CSDL wp
+```
